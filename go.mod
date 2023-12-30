@@ -1,4 +1,4 @@
-module github.com/mojopix/hululoader/
+module github.com/mojopix/hululoader
 
 go 1.16
 
